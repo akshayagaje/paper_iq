@@ -1,0 +1,10 @@
+streamlit
+pymupdf==1.23.8
+textblob
+plotly
+fpdf
+scikit-learn
+transformers
+torch  
+pandas
+numpy
